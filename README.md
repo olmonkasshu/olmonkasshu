@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Abdulrasaq Falade 👋<br>I'm a passionate Full Stack MERN Developer and Mobile Developer with a deep love for <br>creating dynamic and responsive web and mobile applications. I thrive on solving complex <br>problems with innovative solutions and am constantly expanding my tech stack and <br>knowledge.
+Hi there, I'm Abdulrasaq Falade 👋<br>I'm a passionate Software Developer  focused on Full Stack Mern and Mobile Dev with a deep love for  <br>creating dynamic and responsive web and mobile applications. I thrive on solving complex <br>problems with innovative solutions and am constantly expanding my tech stack and <br>knowledge.
 
 
 ## 🌐 Socials:
